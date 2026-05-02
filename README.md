@@ -59,4 +59,4 @@
 - 🔍 RAG / Vector search
 
 ## 📫 Contact
-- Telegram: [@segun_dev](https://t.me/segun_dev)
+- Telegram: [@GoidaSegun](https://t.me/GoidaSegun)
