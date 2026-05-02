@@ -45,3 +45,10 @@ PyTorch Fusion Network + 4× CatBoost. **85.7% accuracy** at high confidence (>6
 
 ## 📫 Contact
 - Telegram: [@GoidaSegun](https://t.me/GoidaSegun)
+- 📧 Email: loftglam@gmail.com
+- 🌍 Moscow, Russia (UTC+3) · Open to remote
+
+## 💼 Currently Looking For
+AI Engineer / LLM Application Developer / AI Automation roles  
+Focus: production LLM systems, multi-agent orchestration, RAG.  
+Open to: remote-first roles, Russian or international companies.
