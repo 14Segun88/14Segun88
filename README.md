@@ -25,6 +25,11 @@ PyTorch Fusion Network + 4× CatBoost. **85.7% accuracy** at high confidence (>6
 
 `Python` `PyTorch` `CatBoost` `sentence-transformers` `Telegram Bot`
 
+### [OpenCode Background — VS Code Extension](https://github.com/14Segun88/opencode-extension)
+VS Code extension that orchestrates an AI coding agent (Kilo CLI) as a background background process. Features a custom sidebar React chat interface with SSE streaming.
+
+`JavaScript` `VS Code API` `SSE` `Agent Orchestration`
+
 ---
 
 ## 🛠 Tech Stack
